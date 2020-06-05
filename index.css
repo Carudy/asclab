@@ -9,8 +9,9 @@ body{
 }
 
 #bk{
-    background: url(img/ar15.jpg) no-repeat;
+    background: url(img/bk4.jpg) no-repeat;
     padding: 1em;
+    background-size: 100%;
 }
 
 #info0{
