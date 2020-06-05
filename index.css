@@ -1,0 +1,23 @@
+p, ol, ul, center{
+    font-size: 1.5em;
+    font-weight: medium;
+    word-break: break-all;
+}
+
+body{
+    background: rgb(232, 232, 233);
+}
+
+#bk{
+    background: url(img/ar15.jpg) no-repeat;
+    padding: 1em;
+}
+
+#info0{
+    padding: 0.8em;
+    margin-left: 2em;
+    width: 38.2%;
+    height: 26em;
+    color: gold;
+    background: rgba(222, 234, 245, 0.3);
+}
