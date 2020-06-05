@@ -1,10 +1,3 @@
-<!--
- * @Author: ZhXZhao
- * @Date: 2020-06-05 13:43:19
- * @LastEditors: ZhXZhao
- * @LastEditTime: 2020-06-05 20:17:13
- * @Description: file content
--->
 <!DOCTYPE html>
 <html lang="zh">
  <head>
@@ -20,17 +13,18 @@
         <div class="jumbotron text-center" style="margin-bottom:0">
           <h1>ASCLab</h1>
         </div>
-        <nav class="navbar navbar-inverse">
-          <div class="container-fluid">
+
+        <nav class="navbar navbar-inverse" role="navigation">
+          <!-- <div class="container-fluid"> -->
             <div class="navbar-header">
-              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-              </button>
-              <a class="navbar-brand" href="index.html">ASC Lab</a>
+                <button class="navbar-toggle" data-toggle="collapse" data-target="#menu">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
             </div>
-            <div class="collapse navbar-collapse" id="my  Navbar">
+
+            <div class="collapse navbar-collapse" id="menu">
               <ul class="nav navbar-nav">
                 <li>   <a href="index.html" >      Home    </a></li>
                 <li class="active">                  <a href="news.html" >       News    </a></li>
@@ -41,11 +35,10 @@
                 <li>                  <a href="contact.html"  >   Contact    </a></li>
               </ul>
             </div>
-          </div>
+          <!-- </div> -->
         </nav>
       </div>
 <!-- Nav  end-->
-
 
 <div class="container">
     <h1>News</h1>
@@ -62,13 +55,12 @@
     </ul>
 </div>
 
+<div class="container">
+  <div class="jumbotron text-center" style="margin-bottom:0">
+      Copyright - ASC Lab All rights reserved.
+  </div>
+</div>
 </body>
-    <div class="container">
-        <div class="jumbotron text-center" style="margin-bottom:0">
-            Copyright - ASC Lab All rights reserved.
-        </div>
-      </div>
-    </div>
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  <script src="https://lib.sinaapp.com/js/jquery/2.0.2/jquery-2.0.2.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 </html>

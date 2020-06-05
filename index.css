@@ -4,12 +4,24 @@ p, ol, ul, center{
     word-break: break-all;
 }
 
+.collapse>ul{
+    width: 100%;
+}
+
+.nav>li{
+    display: table-cell;
+    width: 1%;
+    float: none;
+    white-space: nowrap;
+}
+
 body{
-    background: rgb(232, 232, 233);
+    background: rgb(243, 243, 233);
 }
 
 #bk{
     background: url(img/ar15.jpg) no-repeat;
+    background-size: 100%;
     padding: 1em;
 }
 
