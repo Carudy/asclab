@@ -4,6 +4,10 @@ p, ol, ul, center{
     word-break: break-all;
 }
 
+.news{
+    font-size: 1em;
+}
+
 .collapse>ul{
     width: 100%;
 }
@@ -20,16 +24,18 @@ body{
 }
 
 #bk{
-    background: url(img/ar15.jpg) no-repeat;
-    background-size: 100%;
+    background: url(img/bk4.jpg) no-repeat;
     padding: 1em;
+    background-size: 100%;
+    height: 500 px;
 }
 
 #info0{
     padding: 0.8em;
     margin-left: 2em;
-    width: 38.2%;
-    height: 26em;
-    color: gold;
-    background: rgba(222, 234, 245, 0.3);
+    margin-top: 1em;
+    width: 42%;
+    height: 28em;
+    color: black;
+    background: rgba(222, 234, 245, 0.6);
 }
