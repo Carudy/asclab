@@ -81,11 +81,16 @@ body{
 #info0{
     padding: 0.8em;
     margin-left: 4em;
-    margin-top: 6em;
-    width: 42%;
-    height: 30em;
-    color: black;
+    margin-top: 4em;
+    width: 45%;
+    height: 35em;
     background: rgba(222, 234, 245, 0.6);
+}
+#info0 p{
+    word-wrap: break-word;
+    word-break: unset;
+    text-align:justify;
+    text-justify:inter-ideograph;
 }
 
 #head-logo{
@@ -95,4 +100,25 @@ body{
 
 #logo{
     width: 60%;
+}
+
+/* News nuaalogo */
+.content {
+    min-height: 50em;
+    position: relative;
+}
+
+.content .nuaalogo-bg {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    filter: alpha(Opacity=10);
+    -moz-opacity: 0.1;
+    opacity:  0.1;
+    z-index:  -1;
+    margin-top: 13em;
+}
+
+.content .nuaalog-bg img {
+    transform: scale(1.4);
 }
