@@ -1,5 +1,5 @@
-each paper exactly 5 lines: "year; authors; title; journal/comm; url"
-divided by '##'
+Notice: each paper takes **exactly** 5 lines: "year; authors; title; journal/comm; url"
+They are separeted by '#', and will be sorted by year
 
 #
 2019
