@@ -74,13 +74,14 @@ body{
     background: url(img/bk3.jpg) 100%;
     padding: 1em;
     background-size: 100%;
-    height: 592px;
+    /* height: 592px; */
+    height: 45em;
 }
 
 #info0{
     padding: 0.8em;
     margin-left: 4em;
-    margin-top: 3em;
+    margin-top: 6em;
     width: 42%;
     height: 30em;
     color: black;
