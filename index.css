@@ -1,3 +1,7 @@
+red{
+    color: red;
+}
+
 nav{
     text-align: center;
 }
@@ -16,11 +20,15 @@ p, ol, ul, center{
     color: #777777;
 }
 
-#papers>h3{
+#papers h3{
     color: #333333;
 }
 
-#papers>ol>li>i{
+#papers li{
+    margin-top: 0.5em;
+}
+
+#papers i{
     color: #464646;
 }
 
@@ -112,13 +120,7 @@ body{
     position: absolute;
     text-align: center;
     width: 100%;
-    filter: alpha(Opacity=10);
-    -moz-opacity: 0.1;
     opacity:  0.1;
     z-index:  -1;
-    margin-top: 13em;
-}
-
-.content .nuaalog-bg img {
-    transform: scale(1.4);
+    margin-top: 8em;
 }
