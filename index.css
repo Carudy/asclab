@@ -8,6 +8,40 @@ p, ol, ul, center{
     word-break: break-all;
 }
 
+#papers{
+    color: #777777;
+}
+
+#papers>h3{
+    color: #333333;
+}
+
+#papers>ol>li>i{
+    color: #464646;
+}
+
+#download>ol>li{
+    margin-bottom: 2em;
+}
+
+#people{
+    text-align: center;
+    color: #112233;
+}
+
+#contact{
+    background: #6789ab;
+    background-size:  100% 100%;
+}
+
+#contact>h3{
+    color: gold;
+}
+
+.head{
+    width: 100%;
+}
+
 .news{
     color: #767676;
     line-height: 30px;
@@ -41,10 +75,8 @@ body{
 
 #info0{
     padding: 0.8em;
-    position: relative;
     margin-left: 4em;
     margin-top: 3em;
-    top: 15%;
     width: 42%;
     height: 30em;
     color: black;
