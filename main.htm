@@ -1,10 +1,3 @@
-<!--
- * @Author: ZhXZhao
- * @Date: 2020-06-05 01:16:53
- * @LastEditors: ZhXZhao
- * @LastEditTime: 2020-06-05 20:17:00
- * @Description: file content
--->
 <!DOCTYPE html>
 <html lang="zh">
  <head>
@@ -15,23 +8,23 @@
     <link href="./index.css" rel="stylesheet">
   </head>
 <body>
-
 <!-- Nav -->
     <div class="container">
-      <div id="head-logo"><!--class="jumbotron text-center" -->
-        <img src="img/nuaa-ASC-logo2.png" id="logo">
-      </div>
-        <nav class="navbar navbar-inverse">
-          <div class="container-fluid">
+        <div id="head-logo"><!--class="jumbotron text-center" -->
+          <img src="img/nuaa-ASC-logo2.png" id="logo">
+        </div>
+
+        <nav class="navbar navbar-inverse" role="navigation">
+          <!-- <div class="container-fluid"> -->
             <div class="navbar-header">
-              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-              </button>
-              <a class="navbar-brand" href="index.html">ASC Lab</a>
+                <button class="navbar-toggle" data-toggle="collapse" data-target="#menu">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
             </div>
-            <div class="collapse navbar-collapse" id="my  Navbar">
+
+            <div class="collapse navbar-collapse" id="menu">
               <ul class="nav navbar-nav">
                 <li class="active">   <a href="index.html" >      Home    </a></li>
                 <li>                  <a href="news.html" >       News    </a></li>
@@ -42,7 +35,7 @@
                 <li>                  <a href="contact.html"  >   Contact    </a></li>
               </ul>
             </div>
-          </div>
+          <!-- </div> -->
         </nav>
       </div>
 <!-- Nav  end-->
@@ -51,11 +44,11 @@
         <div id="bk">
           <div id="info0">
             <h2>WELCOME TO ASC！</h2>
-            <p>The <span style="color: red;">A</span>pplied <span style="color: red;">S</span>ecurity & <span style="color: red;">C</span>ryptography (ASC) Research Lab,
-              directed by Prof. Zhe Liu, focus on network security, data security, system security and cryptography. The lab seeks to develop theories, techniques,
-               and systems to enable a more secure and efficient information systems, that are more robust, accountable, and privacy preserve.
-                Our current research focuses on six areas: (1) Crypto Engineering, (2) Cryptography algorithms, (3) Software and System Security,
-                 (4) AI Security, (5) IoT Security, and (6) Blockchain security and Privacy.</p>
+            <p>The <red>A</red>pplied <red>S</red>ecurity & <red>C</red>ryptography (ASC) Research Lab,
+               directed by Prof. Zhe Liu, focus on network security, data security, system security and cryptography. The lab seeks to develop theories, techniques,
+                and systems to enable a more secure and efficient information systems, that are more robust, accountable, and privacy preserve.
+                 Our current research focuses on six areas: (1) Crypto Engineering, (2) Cryptography algorithms, (3) Software and System Security,
+                  (4) AI Security, (5) IoT Security, and (6) Blockchain security and Privacy.</p>
           </div>
         </div>
       </div>
@@ -64,19 +57,25 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-6">
-            <h1>News</h1>
+            <h1>News</h1><!--建议下方只列3条 -->
             <p>
-              <b>2020.2.2</b>
-              aaaaaaaaaaaaaa
+              <b>2020.5.25</b>
+              "Parallel Implementation of SM2 Elliptic Curve on Intel Processor with AVX2."</i>
+                The 25th Australasian Conference on Information Security and Privacy (ACISP).&nbsp;Congrats to JunHao Huang.
             </p>
             <p>
               <b>2020.2.2</b>
-              abbb
+              "Tell the Device Password: Smart Device Wi-Fi Connection Based on Audio Waves."Sensors.&nbsp;Congrats to Zhaoyang Han
             </p>
+            <p>
+              <b>2020.2.2</b>
+              "An efficient access control scheme for smart lock based on asynchronous communication." Proceedings of the ACM Turing Celebration Conference-China.&nbsp;Congrats to Zhaoyang Han.
+            </p>
+            <p><a href="news.html">more ...</a></p>
             <hr style="background: #666666; height: 1px;">
             <h1>Announcement</h1>
-            <p>
-              aaaaaaaaaa
+            <p style="color: red;font-size: 16px; padding-top: 10px;">
+              ASC Lab looks for highly motivated undergrads, grads, and postdocs to join the group. If you are interested in our research, please come to visit our lab and/or send us your resume.
             </p>
           </div>
 
@@ -97,12 +96,13 @@
       </div>
 
 
+<!-- foot-->
       <div class="container">
         <div class="jumbotron text-center" style="margin-bottom:0">
             Copyright - ASC Lab All rights reserved.
         </div>
       </div>
-    </div>
 </body>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  <script src="https://lib.sinaapp.com/js/jquery/2.0.2/jquery-2.0.2.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 </html>
