@@ -1,13 +1,22 @@
+*{
+    /*font-family: Lucida Family;*/
+    font-family: Trebuchet MS;
+}
+
+body{
+    background: rgb(233, 233, 243);
+}
+
 red{
-    color: red;
+    color: #fa6231;
+}
+
+h1, h2, h3{
+    color: #3c5fba;
 }
 
 nav{
     text-align: center;
-}
-
-*{
-    font-family: Lucida Family;
 }
 
 p, ol, ul, center{
@@ -17,7 +26,7 @@ p, ol, ul, center{
 }
 
 #papers{
-    color: #777777;
+    color: #95845a;
 }
 
 #papers h3{
@@ -39,6 +48,14 @@ p, ol, ul, center{
 #people{
     text-align: center;
     color: #112233;
+}
+
+#people h2{
+    color: #6f6f6f;
+}
+
+#people h3{
+    color: #6f3f1f;
 }
 
 #contact{
@@ -73,10 +90,6 @@ p, ol, ul, center{
     width: 1%;
     float: none;
     white-space: nowrap;
-}
-
-body{
-    background: rgb(243, 243, 233);
 }
 
 #bk{
@@ -124,9 +137,6 @@ body{
     opacity:  0.1;
     z-index:  -1;
     margin-top: 8em;
-}
-h1, h2, h3{
-    color: #0c61ca;
 }
 
  /* main page */
