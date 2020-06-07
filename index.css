@@ -52,6 +52,7 @@ p, ol, ul, center{
 
 .head{
     width: 100%;
+    /*max-height: 20em;*/
 }
 
 .news{
@@ -131,4 +132,25 @@ h1, h2, h3{
  /* main page */
 .mainnews {
     color: #0c0fca;
+}
+
+.member h2{
+    text-align: center;
+    color: #262664;
+}
+
+.member img{
+    width: 80%;
+    margin-left: 10%;
+}
+
+.member .col-sm-8{
+    text-align: center;
+    line-height: 3em;
+    margin-top: 2em;
+}
+
+.member hr{
+    background: #999999; 
+    height: 2px;
 }
