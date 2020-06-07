@@ -127,3 +127,8 @@ body{
 h1, h2, h3{
     color: #0c61ca;
 }
+
+ /* main page */
+.mainnews {
+    color: #0c0fca;
+}
