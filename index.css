@@ -124,3 +124,6 @@ body{
     z-index:  -1;
     margin-top: 8em;
 }
+h1, h2, h3{
+    color: #0c61ca;
+}
