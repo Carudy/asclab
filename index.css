@@ -69,6 +69,8 @@ p, ol, ul, center{
 
 .head{
     width: 100%;
+    height: 16em;
+    vertical-align:middle;
     /*max-height: 20em;*/
 }
 
@@ -102,10 +104,10 @@ p, ol, ul, center{
 
 #info0{
     padding: 0.8em;
-    margin-left: 4em;
-    margin-top: 4em;
+    margin-left: 1.5em;
+    margin-top: 1.5em;
     width: 45%;
-    height: 35em;
+    height: 31.5em;
     background: rgba(222, 234, 245, 0.6);
 }
 #info0 p{
@@ -161,6 +163,7 @@ p, ol, ul, center{
 }
 
 .member hr{
-    background: #999999; 
+    background: #999999;
     height: 2px;
 }
+
