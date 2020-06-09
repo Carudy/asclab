@@ -171,3 +171,16 @@ p, ol, ul, center{
     height: 2px;
 }
 
+#research{
+    display:flex;
+    align-items: center;
+}
+#research>.col-sm-3{
+    /* width:25%; */
+    display:flex;
+    align-items: center;
+}
+
+.col-sm-3{
+    padding-top: 20px;
+}
