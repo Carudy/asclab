@@ -85,6 +85,10 @@ p, ol, ul, center{
     padding: 20px 0;
     /* font-size: 18px; */
     font-size: 1em;
+    /* word-wrap: break-word;
+    word-break: unset;
+    text-align:justify;
+    text-justify:inter-ideograph; */
 }
 
 .collapse>ul{
@@ -183,4 +187,12 @@ p, ol, ul, center{
 
 .col-sm-3{
     padding-top: 20px;
+}
+
+#awards-list p{
+    word-wrap: break-word;
+    word-break: unset;
+    word-break: keep-all;
+    text-align:justify;
+    text-justify:inter-ideograph;
 }
