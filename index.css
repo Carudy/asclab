@@ -196,3 +196,10 @@ p, ol, ul, center{
     text-align:justify;
     text-justify:inter-ideograph;
 }
+#research-intro p{
+    word-wrap: break-word;
+    word-break: unset;
+    /* word-break: keep-all; */
+    text-align:justify;
+    text-justify:inter-ideograph;
+}
