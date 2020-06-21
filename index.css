@@ -71,6 +71,10 @@ p, ol, ul, center{
     width: 100%;
 }
 
+.newspic{
+    width: 30%;
+}
+
 @media screen and (min-width: 400px){
     .head-block{
         height: 15em;
