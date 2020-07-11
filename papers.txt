@@ -6,140 +6,126 @@ They are separeted by '#', and will be sorted by year
 Chunpeng Ge, Xinshu Ma, Zhe Liu
 A semi-autonomous distributed blockchain-based framework for UAVs system
 Journal of Systems Architecture
-https://asclab.nuaa.edu.cn
+https://www.sciencedirect.com/science/article/pii/S1383762120300229
 
 #
 2020
 Qi Feng, Debiao He, Zhe Liu, Huaqun Wang, Kim-Kwang Raymond Choo
 SecureNLP: A System for Multi-Party Privacy-Preserving Natural Language Processing
 IEEE Transactions on Information Forensics and Security
-https://asclab.nuaa.edu.cn
+https://ieeexplore.ieee.org/document/9099258
 
 #
 2020
 Chunpeng Ge, Changchun Yin, Zhe Liu, Liming Fang, Juncen Zhu, Huading Ling
 A Privacy Preserve Big Data Analysis System for Wearable Wireless Sensor Network
 Computers & Security
-https://asclab.nuaa.edu.cn
-
-#
-2020
-Chunpeng Ge, Liming Fang, Jinyue Xia
-Key-Private Identity-Based Proxy Re-encryption
-Computers, Materials & Continua
-https://asclab.nuaa.edu.cn
+https://www.sciencedirect.com/science/article/pii/S0167404820301607?dgcid=rss_sd_all
 
 #
 2020
 Chunpeng Ge, Zhe Liu, Liming Fang
 A blockchain based decentralized data security mechanism for the Internet of Things
 Journal of Parallel and Distributed Computing
-https://asclab.nuaa.edu.cn
+https://www.sciencedirect.com/science/article/pii/S074373151930810X
 
 #
 2020
 Lu Zhou, Chunpeng Ge, Chunhua Su
 A privacy preserving two-factor authentication protocol for the Bitcoin SPV nodes
 Science China Information Sciences
-https://asclab.nuaa.edu.cn
+https://link.springer.com/article/10.1007/s11432-019-9922-x
 
 #
 2020
 Fan Zhang, Yiran Zhang, Huilong Jiang, Xiang Zhu, Shivam Bhasin, Xinjie Zhao, Zhe Liu, Dawu Gu, Kui Ren
 Persistent Fault Attack in Practice
 IACR Transactions on Cryptographic Hardware and Embedded Systems
-https://asclab.nuaa.edu.cn
+https://tches.iacr.org/index.php/TCHES/article/view/8548
 
 #
 2020
 Shuangke Wu, Yanjiao Chen, Minghui Li, Xiangyang Luo, Zhe Liu, Lan Liu
 Survive and Thrive: A Stochastic Game for DDoS Attacks in Bitcoin Mining Pools
 IEEE/ACM Transactions on Networking
-https://asclab.nuaa.edu.cn
+https://ieeexplore.ieee.org/document/9036064
 
 #
 2020
 Qi Feng, Debiao He, Zhe Liu, Ding Wang, Kim-Kwang Raymond Choo
 Distributed signing protocol for IEEE P1363-compliant identity-based signature scheme
 IET Information Security
-https://asclab.nuaa.edu.cn
+https://ieeexplore.ieee.org/document/9122724
 
 #
 2020
 Chunpeng Ge, Willy Susilo, Zhe Liu, Jinyue Xia, Pawel Szalachowski, Fang Liming
 Secure Keyword Search and Data Sharing Mechanism for Cloud Computing
 IEEE Transactions on Dependable and Secure Computing
-https://asclab.nuaa.edu.cn
-
-#
-2020
-Jiawei Wang, Li Li, Kui Liu
-Exploring How Deprecated Python Library APIs are (Not) Handled
-Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering
-https://asclab.nuaa.edu.cn
+https://ieeexplore.ieee.org/document/8949700
 
 #
 2020
 Zhengjun Jing, Chunsheng Gu, Chunpeng Ge, Peizhong Shi
 Cryptanalysis of a Public Key Cryptosystem Based on Data Complexity under Quantum Environment
 Mobile Networks and Applications
-https://asclab.nuaa.edu.cn
+https://link.springer.com/chapter/10.1007/978-3-030-21373-2_32
 
 #
 2020
 Kyungho Kim, Seungju Choi, Hyeokdong Kwon, Hyunjun Kim, Zhe Liu, Hwajeong Seo
 PAGE—Practical AES-GCM Encryption for Low-End Microcontrollers
 Applied Sciences
-https://asclab.nuaa.edu.cn
+https://www.mdpi.com/2076-3417/10/9/3131
 
 #
 2020
 Kui Liu, Shangwen Wang, Anil Koyuncu, Tegawendé F. Bissyandé, Dongsun Kim, Peng Wu, Jacques Klein, Xiaoguang Mao and Yves Le Traon
 On the efficiency of Test Suite based Program Repair: A Systematic Assessment of 16 Automated Repair Systems for Java Programs
 Proceedings of the 42nd International Conference on Software Engineering
-https://asclab.nuaa.edu.cn
+https://conf.researchr.org/details/icse-2020/icse-2020-papers/124/On-the-Efficiency-of-Test-Suite-based-Program-Repair-A-Systematic-Assessment-of-16-A
 
 #
 2020
 Yushu Zhang, Ping Wang, Liming Fang, Xing He, Hao Han, Bing Chen
 Secure Transmission of Compressed Sampling Data Using Edge Clouds
 IEEE Transactions on Industrial Informatics
-https://asclab.nuaa.edu.cn
+https://ieeexplore.ieee.org/document/8959294
 
 #
 2020
 Liming Fang, Xinyu Yun, Changchun Yin, Weiping Ding, Lu Zhou, Zhe Liu, Chunhua Su
 ANCS: Automatic NXDomain Classification System based on Incremental Fuzzy Rough Sets Machine Learning
 IEEE Transactions on Fuzzy Systems
-https://asclab.nuaa.edu.cn
+https://ieeexplore.ieee.org/document/8957003
 
 #
 2020
 Anil Koyuncu, Kui Liu, Tegawendé F. Bissyandé, Dongsun Kim, Martin Monperrus, Jacques Klein and Yves Le Traon
 FixMiner: Mining Relevant Fix Patterns for Automated Program Repair
 Empirical Software Engineering
-https://asclab.nuaa.edu.cn
+https://link.springer.com/article/10.1007/s10664-019-09780-z
 
 #
 2020
 Liming Fang, Changchun Yin, Lu Zhou, Yang Li, Chunhua Su, Jinyue Xia
 A physiological and behavioral feature authentication scheme for medical cloud based on fuzzy-rough core vector machine
 Information Sciences
-https://asclab.nuaa.edu.cn
+https://www.sciencedirect.com/science/article/pii/S0020025519307546
 
 #
 2019
 Liming Fang, Yang Li, Xinyu Yun, Zhenyu Wen, Shouling Ji, Weizhi Meng, Zehong Cao, M Tanveer
 THP: A novel authentication scheme to prevent multiple attacks in SDN-based IoT network
 IEEE Internet of Things Journal
-https://asclab.nuaa.edu.cn
+https://ieeexplore.ieee.org/abstract/document/8851192
 
 #
 2019
 Anil Koyuncu, Kui Liu*, Tegawendé F. Bissyandé, Dongsun Kim, Martin Monperrus, Jacques Klein and Yves Le Traon
 iFixR: Bug Report driven Program Repair
 Proceedings of the 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
-https://asclab.nuaa.edu.cn
+https://dl.acm.org/citation.cfm?id=3338935
 
 
 #
@@ -147,28 +133,28 @@ https://asclab.nuaa.edu.cn
 Chunpeng Ge, Lu Zhou, Jinyue Xia, Pawel Szalachowski, Chunhua Su
 A Secure Fine-Grained Micro-Video Subscribing System in Cloud Computing
 IEEE Access
-https://asclab.nuaa.edu.cn
+https://ieeexplore.ieee.org/abstract/document/8845666/
 
 #
 2019
 Yepeng Liu, Yongjun Ren, Chunpeng Ge, Jinyue Xia, Qirun Wang
 A CCA-secure multi-conditional proxy broadcast re-encryption scheme for cloud storage system
 Journal of Information Security and Applications
-https://asclab.nuaa.edu.cn
+https://www.sciencedirect.com/science/article/pii/S221421261930064X
 
 #
 2019
 Kui Liu, Anil Koyuncu, Dongsun Kim and Tegawendé F. Bissyandé
 TBar: Revisiting Template-based Automated Program Repair
 Proceedings of the 28th ACM SIGSOFT International Symposium on Software Testing and Analysis
-https://asclab.nuaa.edu.cn
+https://dl.acm.org/doi/10.1145/3293882.3330577
 
 #
 2019
 Chunpeng Ge, Lu Zhou, Jinyue Xia, Pawel Szalachowski, Chunhua Su
 A Secure Fine-Grained Identity-Based Proxy Broadcast Re-encryption Scheme for Micro-video Subscribing System in Clouds
 International Symposium on Security and Privacy in Social Networks and Big Data
-https://asclab.nuaa.edu.cn
+https://link.springer.com/chapter/10.1007%2F978-981-15-0758-8_11
 
 #
 2019
@@ -182,126 +168,119 @@ https://dl.acm.org/doi/10.1145/3321408.3321567
 Chunpeng Ge, Siwei Sun, Pawel Szalachowski
 Permission less Block chains and Secure Logging
 2019 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)
-https://asclab.nuaa.edu.cn
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8751306
 
 #
 2019
 Kui Liu, Anil Koyuncu, Dongsun Kim, Tegawendé F. Bissyandé, Jacques Klein and Yves Le Traon
 You Cannot Fix What You Cannot Find! An Investigation of Fault Localization Bias in Benchmarking Automated Program Repair Systems
 Proceedings of the 12th IEEE International Conference on Software Testing, Verification and Validation
-https://asclab.nuaa.edu.cn
+https://arxiv.org/abs/1812.07283
 
 #
 2019
 Huaqun Wang, Debiao He, Zhe Liu, Rui Guo
 Blockchain-based anonymous reporting scheme with anonymous rewarding
 IEEE Transactions on Engineering Management
-https://asclab.nuaa.edu.cn
+https://ieeexplore.ieee.org/abstract/document/8704256
 
 #
 2019
 Peizhong Shi, Chunsheng Gu, Chunpeng Ge, Zhengjun Jing
 QoS Aware Routing Protocol Through Cross-layer Approach in Asynchronous Duty-Cycled WSNs
 IEEE Access
-https://asclab.nuaa.edu.cn
+https://ieeexplore.ieee.org/document/8701645
 
 #
 2019
 Lu Zhou, Xin Sun, Chunhua Su, Zhe Liu, Kim-Kwang Raymond Choo
 Game theoretic security of quantum bit commitment
 Information Sciences
-https://asclab.nuaa.edu.cn
+https://www.sciencedirect.com/science/article/pii/S0020025518302263
 
 #
 2019
 Lu Zhou, Chunhua Su, Zhen Li, Zhe Liu, Gerhard P Hancke
 Automatic fine-grained access control in SCADA by machine learning
 Future Generation Computer Systems
-https://asclab.nuaa.edu.cn
+https://www.sciencedirect.com/science/article/pii/S0167739X17325761
 
 #
 2019
 Kui Liu, Dongsun Kim, Tegawendé F. Bissyandé, Taeyoung Kim, Kisub Kim, Anil Koyuncu, Suntae Kim and Yves Le Traon
 Learning to Spot and Refactor Inconsistent Method Names
 Proceedings of the 41st ACM/IEEE International Conference on Software Engineering
-https://asclab.nuaa.edu.cn
+https://dl.acm.org/doi/10.1109/ICSE.2019.00019
 
 #
 2019
 Weiqiang Liu, Jian Ni, Zhe Liu, Chunyang Liu, Máire O’Neill
 Optimized modular multiplication for supersingular isogeny Diffie-Hellman
 IEEE Transactions on Computers
-https://asclab.nuaa.edu.cn
+https://ieeexplore.ieee.org/document/8648164
 
 #
 2019
 Ge Chunpeng, Zhe Liu, Jinyue Xia, Fang Liming
 Revocable identity-based broadcast proxy re-encryption for data sharing in clouds
 IEEE Transactions on Dependable and Secure Computing
-https://asclab.nuaa.edu.cn
+https://ieeexplore.ieee.org/document/8642350
 
 #
 2019
 Kyungho Kim, Seungju Choi, Hyeokdong Kwon, Zhe Liu, Hwajeong Seo
 FACE–LIGHT: Fast AES–CTR Mode Encryption for Low-End Microcontrollers
 International Conference on Information Security and Cryptology
-https://asclab.nuaa.edu.cn
-
-#
-2019
-Hwajeong Seo, Zhe Liu
-All the HIGHT You Need on Cortex–M4
-2019 International Conference on Information Security and Cryptology
-https://asclab.nuaa.edu.cn
+https://link.springer.com/chapter/10.1007/978-3-030-40921-0_6
 
 #
 2019
 Zhe Liu, Yuting Wu
 An Index-based Provenance Compression Scheme for Identifying Malicious Nodes in Multi-hop IoT Network
 IEEE Internet of Things Journal
-https://asclab.nuaa.edu.cn
+https://ieeexplore.ieee.org/document/8938763
 
 #
 2019
 Xinshu Ma, Chunpeng Ge, Zhe Liu
 Blockchain-Enabled Privacy-Preserving Internet of Vehicles: Decentralized and Reputation-Based Network Architecture
 2019 International Conference on Network and System Security
-https://asclab.nuaa.edu.cn
+https://link.springer.com/chapter/10.1007/978-3-030-36938-5_20
 
 #
 2019
 Lu Zhou, Chunpeng Ge, Simin Hu, Chunhua Su
 Energy-Efficient and Privacy-Preserving Data Aggregation Algorithm for Wireless Sensor Networks
 IEEE Internet of Things Journal
-https://asclab.nuaa.edu.cn
+https://ieeexplore.ieee.org/document/8930931
 
 #
 2019
 Yu Wang, Weizhi Meng, Wenjuan Li, Zhe Liu, Yang Liu, Hanxiao Xue
 Adaptive machine learning‐based alarm reduction via edge computing for distributed intrusion detection systems
 Concurrency and Computation: Practice and Experience
-https://asclab.nuaa.edu.cn
+https://orbit.dtu.dk/en/publications/adaptive-machine-learning-based-alarm-reduction-via-edge-computin
 
 #
 2019
 Kui Liu, Anil Koyuncu, Dongsun Kim and Tegawendé F. Bissyandé
 AVATAR : Fixing Semantic Bugs with Fix Patterns of Static Analysis Violations
 Proceedings of the 26th IEEE International Conference on Software Analysis
-https://asclab.nuaa.edu.cn
+https://arxiv.org/abs/1812.07270
 
 #
 2019
 Bo Zhao, Liming Fang, Hanyi Zhang, Chunpeng Ge, Weizhi Meng, Liang Liu, Chunhua Su
 Y-DWMS: A digital watermark management system based on smart contracts
 Sensors
-https://asclab.nuaa.edu.cn
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6679250/
 
 #
 2019
 Liming Fang, Minghui Li, Lu Zhou, Hanyi Zhang, Chunpeng Ge
 A Fine-Grained User-Divided Privacy-Preserving Access Control Protocol in Smart Watch
 Sensors
-https://asclab.nuaa.edu.cn
+https://europepmc.org/article/med/31067751
 
 #
 2019
@@ -315,39 +294,39 @@ https://doi.org/10.3390/s19030618
 Maosheng Sun, Chunpeng Ge, Liming Fang, Jiandong Wang
 Conditional proxy broadcast re-encryption with fine grain policy for cloud data sharing
 International Journal of Embedded Systems
-https://asclab.nuaa.edu.cn
+https://www.inderscienceonline.com/doi/abs/10.1504/IJES.2019.098296
 
 #
 2019
 Huaqun Wang, Qihua Wang, Debiao He, Qi Li, Zhe Liu
 BBARS: Blockchain-based anonymous rewarding scheme for V2G networks
 IEEE Internet of Things Journal
-https://asclab.nuaa.edu.cn
+https://ieeexplore.ieee.org/document/8598651
 
 #
 2018
 Kui Liu, Dongsun Kim, Tegawendé F. Bissyandé, Shin Yoo, and Yves Le Traon
 Mining Fix Patterns for FindBugs Violations
 IEEE Transactions on Software Engineering
-https://asclab.nuaa.edu.cn
+https://ieeexplore.ieee.org/abstract/document/8565907
 
 #
 2018
 Kui Liu, Anil Koyuncu, Kisub Kim, Dongsun Kim, and Tegawendé Bissyande
 LSRepair: Live Search of Fix Ingredients for Automated Program Repair
 Proceedings of the 25th Asia-Pacific Software Engineering Conference ERA Track
-https://asclab.nuaa.edu.cn
+https://ieeexplore.ieee.org/document/8719533
 
 #
 2018
 Pingfan Kong, Li Li, Jun Gao, Kui Liu, Tegawendé F. Bissyandé, Jacques Klein
 Automated Testing of Android Apps: A Systematic Literature Review
 IEEE Transactions on Reliability
-https://asclab.nuaa.edu.cn
+https://ieeexplore.ieee.org/document/8453877
 
 #
 2018
 Kui Liu, Dongsun Kim, Li Li, Anil Koyuncu, Tegawendé F. Bissyandé and Yves Le Traon
 A Closer Look at Real-World Patches
 Proceedings of the 34th IEEE International Conference on Software Maintenance and Evolution
-https://asclab.nuaa.edu.cn
+https://ieeexplore.ieee.org/document/8530036

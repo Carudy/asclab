@@ -35,6 +35,8 @@ p, ol, ul, center{
 
 #papers li{
     margin-top: 0.5em;
+    word-wrap: break-word;
+    word-break: normal;
 }
 
 #papers i{
@@ -65,6 +67,27 @@ p, ol, ul, center{
 
 #contact>h3{
     color: gold;
+}
+
+#newsset p{
+    word-wrap: break-word;
+    word-break: normal;
+}
+
+#about-p p{
+    word-wrap: break-word;
+    word-break: normal;
+    text-align:justify;
+    text-justify:inter-ideograph;
+}
+
+#indexnews p{
+    word-wrap: break-word;
+    word-break: normal;
+}
+
+#people-li li{
+    font-size: 1.5em;
 }
 
 .head{
