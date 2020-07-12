@@ -330,3 +330,206 @@ Kui Liu, Dongsun Kim, Li Li, Anil Koyuncu, Tegawendé F. Bissyandé and Yves Le 
 A Closer Look at Real-World Patches
 Proceedings of the 34th IEEE International Conference on Software Maintenance and Evolution
 https://ieeexplore.ieee.org/document/8530036
+
+#
+2018
+Sankalp Ghatpande, Johann Großschädl, Zhe Liu
+A family of lightweight twisted Edwards curves for the Internet of things
+IFIP International Conference on Information Security Theory and Practice
+https://link.springer.com/chapter/10.1007/978-3-030-20074-9_14
+
+#
+2018
+Tian Wang, Meina Qiao, Zhiwei Lin, Ce Li, Hichem Snoussi, Zhe Liu, Chang Choi
+Generative neural networks for anomaly detection in crowded scenes
+IEEE Transactions on Information Forensics and Security
+https://ieeexplore.ieee.org/document/8513816
+
+#
+2018
+Weizhi Meng, Zhe Liu
+TMGMap: designing touch movement-based geographical password authentication on smartphones
+International Conference on Information Security Practice and Experience
+https://www.springerprofessional.de/en/tmgmap-designing-touch-movement-based-geographical-password-auth/16128176
+
+#
+2018
+Weizhi Meng, Fei Fei, Lijun Jiang, Zhe Liu, Chunhua Su, Jinguang Han
+CPMap: design of click-points map-based graphical password authentication
+IFIP International Conference on ICT Systems Security and Privacy Protection
+https://www.springerprofessional.de/en/cpmap-design-of-click-points-map-based-graphical-password-authen/16109478
+
+#
+2018
+Lu Zhou, Kuo-Hui Yeh, Gerhard Hancke, Zhe Liu, Chunhua Su
+Security and privacy for the industrial internet of things: An overview of approaches to safeguarding endpoints
+IEEE Signal Processing Magazine
+https://ieeexplore.ieee.org/document/8454911
+
+#
+2018
+Xingxin Li, Youwen Zhu, Jian Wang, Zhe Liu, Yining Liu, Mingwu Zhang
+On the soundness and security of privacy-preserving SVM for outsourcing data classification
+IEEE Transactions on Dependable and Secure Computing
+https://ieeexplore.ieee.org/document/7879257
+
+#
+2018
+Hwajeong Seo, Zhe Liu, Patrick Longa, Zhi Hu
+SIDH on ARM: faster modular multiplications for faster post-quantum supersingular isogeny key exchange
+IACR Transactions on Cryptographic Hardware and Embedded Systems
+https://tches.iacr.org/index.php/TCHES/article/view/7266
+
+#
+2018
+Zhe Liu, Hwajeong Seo
+IoT-NUMS: evaluating NUMS elliptic curve cryptography for IoT platforms
+IEEE Transactions on Information Forensics and Security
+https://ieeexplore.ieee.org/document/8410894
+
+#
+2018
+Weizhi Meng, Yu Wang, Wenjuan Li, Zhe Liu, Jin Li, Christian W Probst
+Enhancing intelligent alarm reduction for distributed intrusion detection systems via edge computing
+Australasian Conference on Information Security and Privacy
+https://link.springer.com/chapter/10.1007/978-3-319-93638-3_44
+
+#
+2018
+Zhe Liu, Hwajeong Seo, Chien-Ning Chen, Yasuyuki Nogami, Taehwan Park, Jongseok Choi, Howon Kim
+Secure GCM implementation on AVR
+Discrete Applied Mathematics
+https://www.sciencedirect.com/science/article/pii/S0166218X1630484X
+
+#
+2018
+Chunyang Liu, Jian Ni, Weiqiang Liu, Zhe Liu, Máire O'Neill
+Design and optimization of modular multiplication for SIDH
+2018 IEEE International Symposium on Circuits and Systems (ISCAS)
+https://ieeexplore.ieee.org/document/8351082/
+
+#
+2018
+Zhe Liu, Hwajeong Seo, Aniello Castiglione, Kim-Kwang Raymond Choo, Howon Kim
+Memory-efficient implementation of elliptic curve cryptography for the Internet-of-Things
+IEEE Transactions on Dependable and Secure Computing
+https://ieeexplore.ieee.org/document/8335347/
+
+#
+2018
+Zhe Liu, Kim-Kwang Raymond Choo, Johann Grossschadl
+Securing edge devices in the post-quantum internet of things using lattice-based cryptography
+IEEE Communications Magazine
+https://ieeexplore.ieee.org/document/8291132
+
+#
+2018
+Zhe Liu, Patrick Longa, Geovandro Pereira, Oscar Reparaz, Hwajeong Seo
+FourQ on embedded devices with strong countermeasures against side-channel attacks
+IEEE Transactions on Dependable and Secure Computing
+https://ieeexplore.ieee.org/document/8274963
+
+#
+2018
+Qun Wang, Pengfei Tang, Xiang Ge, Pengfei Li, Chen Lv, Menghao Wang, Kefeng Wang, Liming Fang, Xiong Lu
+Experimental and simulation studies of strontium/zinc-codoped hydroxyapatite porous scaffolds with excellent osteoinductivity and antibacterial activity
+Applied Surface Science
+https://www.sciencedirect.com/science/article/pii/S0169433218322025
+
+#
+2018
+Donglin Gan, Lu Han, Menghao Wang, Wensi Xing, Tong Xu, Hongping Zhang, Kefeng Wang, Liming Fang, Xiong Lu
+Conductive and tough hydrogels based on biopolymer molecular templates for controlling in situ formation of polypyrrole nanorods
+ACS applied materials & interfaces
+https://pubs.acs.org/doi/abs/10.1021/acsami.8b10280
+
+#
+2018
+Lu Han, Menghao Wang, Pengfei Li, Donglin Gan, Liwei Yan, Jielong Xu, Kefeng Wang, Liming Fang, Chun Wai Chan, Hongping Zhang, Huipin Yuan, Xiong Lu
+Mussel-inspired tissue-adhesive hydrogel based on the polydopamine–chondroitin sulfate complex for growth-factor-free cartilage regeneration
+ACS applied materials & interfaces
+https://pubs.acs.org/doi/10.1021/acsami.8b05314
+
+#
+2018
+Lu Han, Liwei Yan, Menghao Wang, Kefeng Wang, Liming Fang, Jie Zhou, Ju Fang, Fuzeng Ren, Xiong Lu
+Transparent, adhesive, and conductive hydrogel for soft bioelectronics based on light-transmitting polydopamine-doped polypyrrole nanofibrils
+Chemistry of Materials
+https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.8b01446
+
+#
+2018
+Hao-Yang Mi, Xin Jing, Qifeng Zheng, Liming Fang, Han-Xiong Huang, Lih-Sheng Turng, Shaoqin Gong
+High-performance flexible triboelectric nanogenerator based on porous aerogels and electrospun nanofibers for energy harvesting and sensitive self-powered sensing
+Nano Energy
+https://www.sciencedirect.com/science/article/pii/S2211285518301915
+
+#
+2018
+Meng Xiao, Jiangwei Xiao, Gang Wu, Yu Ke, Liming Fang, Chunlin Deng, Hua Liao
+Anchoring TGF-β1 on biomaterial surface via affinitive interactions: Effects on spatial structures and bioactivity
+Colloids and Surfaces B: Biointerfaces
+https://www.ncbi.nlm.nih.gov/pubmed/29602080
+
+#
+2018
+Gang Wu, Huan Wang, Jiangwei Xiao, Lilu Wang, Yu Ke, Liming Fang, Chunlin Deng, Hua Liao
+Blocking of matrix metalloproteinases-13 responsive peptide in poly (urethane urea) for potential cartilage tissue engineering applications
+Journal of Biomaterials Applications
+https://pubmed.ncbi.nlm.nih.gov/29359624/
+
+#
+2018
+Qifeng Zheng, Liming Fang, Haiquan Guo, Kefang Yang, Zhiyong Cai, Mary Ann B Meador, Shaoqin Gong
+Highly porous polymer aerogel film‐based triboelectric nanogenerators
+Advanced Functional Materials
+https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201706365
+
+#
+2018
+Gang Wu, Meng Xiao, Jiangwei Xiao, Lin Guo, Yu Ke, Hong Li, Liming Fang, Chunlin Deng, Hua Liao
+Elastic polyurethane bearing pendant TGF-β1 affinity peptide for potential tissue engineering applications
+Mater. Sci. Eng., C
+https://pubmed.ncbi.nlm.nih.gov/29208289/
+
+#
+2018
+Qifeng Zheng, Ruosen Xie, Liming Fang, Zhiyong Cai, Zhenqiang Ma, Shaoqin Gong
+Oxygen-deficient and nitrogen-doped MnO 2 nanowire-reduced graphene oxide–cellulose nanofibril aerogel electrodes for high-performance asymmetric supercapacitors
+Journal of Materials Chemistry A
+https://pubs.rsc.org/en/content/articlelanding/2018/ta/c8ta09374a
+
+#
+2018
+Lu Han, Kezhi Liu, Menghao Wang, Kefeng Wang, Liming Fang, Haiting Chen, Jie Zhou, Xiong Lu
+Mussel‐inspired adhesive and conductive hydrogel with long‐lasting moisture and extreme temperature tolerance
+Advanced Functional Materials
+https://onlinelibrary.wiley.com/doi/10.1002/adfm.201704195
+
+#
+2018
+Chunpeng Ge, Willy Susilo, Liming Fang, Jiandong Wang, Yunqing Shi
+A CCA-secure key-policy attribute-based proxy re-encryption in the adaptive corruption model for dropbox data sharing system
+Designs, Codes and Cryptography
+https://link.springer.com/article/10.1007/s10623-018-0462-9
+
+#
+2018
+Chunsheng Gu, Youyu Gu, Peizhong Shi, Chunpeng Ge, Zhenjun Jing
+Cryptanalysis of key exchange protocol based on tensor ergodic problem
+China Communications
+https://ieeexplore.ieee.org/document/8485479
+
+#
+2018
+Liming Fang, Chunpeng Ge, Zhiqiu Huang, Jiandong Wang
+Privacy preserving cloud data sharing system with flexible control
+Computers & Electrical Engineering
+https://www.sciencedirect.com/science/article/pii/S0045790617327386
+
+#
+2018
+Maosheng Sun, Chunpeng Ge, Liming Fang, Jiandong Wang
+A proxy broadcast re-encryption for cloud data sharing
+Multimedia Tools and Applications
+https://link.springer.com/article/10.1007/s11042-017-4448-9
