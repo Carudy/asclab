@@ -431,7 +431,7 @@ https://ieeexplore.ieee.org/document/8274963
 
 #
 2018
-Qun Wang, Pengfei Tang, Xiang Ge, Pengfei Li, Chen Lv, Menghao Wang, Kefeng Wang, Liming Fang, Xiong Lu
+Qun Wang, Pengfei Tang, Xiang Ge, Pengfei Li, Chen Lyu, Menghao Wang, Kefeng Wang, Liming Fang, Xiong Lu
 Experimental and simulation studies of strontium/zinc-codoped hydroxyapatite porous scaffolds with excellent osteoinductivity and antibacterial activity
 Applied Surface Science
 https://www.sciencedirect.com/science/article/pii/S0169433218322025
