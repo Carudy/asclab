@@ -90,6 +90,11 @@ p, ol, ul, center{
     font-size: 1.5em;
 }
 
+#fang li{
+    word-wrap: break-word;
+    word-break: normal;
+}
+
 .head{
     width: 100%;
 }
