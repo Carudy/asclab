@@ -90,6 +90,10 @@ p, ol, ul, center{
     font-size: 1.5em;
 }
 
+.psize{
+    font-size: 1.2em;
+}
+
 #fang li{
     word-wrap: break-word;
     word-break: normal;
