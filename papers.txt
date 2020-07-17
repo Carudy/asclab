@@ -38,6 +38,13 @@ https://link.springer.com/article/10.1007/s11432-019-9922-x
 
 #
 2020
+Liming Fang, Yang Li, Zhe liu, Changchun Yin, Minghui Li, Zehong Cao
+A Practical Model Based on Anomaly Detection for Protecting Medical IoT Control Services Against External Attacks
+IEEE Transactions on Industrial Informatics
+http://asclab.nuaa.edu.cn
+
+#
+2020
 Fan Zhang, Yiran Zhang, Huilong Jiang, Xiang Zhu, Shivam Bhasin, Xinjie Zhao, Zhe Liu, Dawu Gu, Kui Ren
 Persistent Fault Attack in Practice
 IACR Transactions on Cryptographic Hardware and Embedded Systems
