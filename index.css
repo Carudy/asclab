@@ -239,3 +239,68 @@ p, ol, ul, center{
     text-align:justify;
     text-justify:inter-ideograph;
 }
+
+
+
+/*awards*/
+.photos {
+    /* width: 960px; */
+    position: relative;
+    margin: 0 auto;
+    padding: 1px;
+
+}
+.photos .col-1-2, 
+.photos .col-1-3,
+.photos .col-2-3, 
+.photos .col-1-4, 
+.photos .col-2-4, 
+.photos .col-3-4, 
+.photos .col-1-5, 
+.photos .col-2-5, 
+.photos .col-3-5, 
+.photos .col-4-5, 
+.photos .col-1-6, 
+.photos .col-2-6, 
+.photos .col-3-6, 
+.photos .col-4-6, 
+.photos .col-5-6 {
+    float: left;
+    display: inline-block;
+}
+
+.photos .col-1-4 {
+    width: 25%;
+    height: 290px;
+    text-align: center;
+}
+
+.photos .wrap-col {
+    margin: 10px;
+}
+
+.photos img {
+    max-width: 100%;
+    height: 177px;
+    /* max-width: 450px;display: inline;overflow:hidden;width:475px;height:650px; */
+}
+.photos .text1 {
+    margin-top: 3px;
+    margin-bottom: 8px;
+    font-size: 19px;
+    line-height: 19px;
+    text-align: center;
+}
+.photos a {
+    display: inline-block;
+    color: #55B7EB;
+    padding-right: 12px;
+    background: url(./img/link_marker.png) right 4px no-repeat;
+    margin-top: 8px;
+}
+
+/* .textDescribe
+{
+    min-height: 50em;
+    position: relative;
+} */
